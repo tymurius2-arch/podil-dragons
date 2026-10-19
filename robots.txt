@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://podil-dragons.example/sitemap.xml
+Sitemap: https://tymurius2-arch.github.io/podil-dragons/sitemap.xml

@@ -5,7 +5,7 @@
    ============================================================ */
 window.PD_CONFIG = {
   // Домен сайта без https:// и без слеша в конце, например "podildragons.com.ua"
-  domain: "podil-dragons.example",
+  domain: "tymurius2-arch.github.io/podil-dragons",
 
   // Телефон: как показывать и как набирать (только цифры и +)
   phoneDisplay: "+380 00 000 00 00",

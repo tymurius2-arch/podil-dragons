@@ -40,7 +40,7 @@
 ## 3. Хостинг: Netlify (бесплатно, сам обновляется при каждом изменении в GitHub)
 
 1. Зарегистрируйтесь на https://app.netlify.com через свой аккаунт GitHub.
-2. Нажмите «Add new site» → «Import an existing project» → GitHub → репозиторий `jss`.
+2. Нажмите «Add new site» → «Import an existing project» → GitHub → репозиторий `podil-dragons`.
 3. Настройки сборки:
    - Branch: `main`
    - Base directory: (корень репозитория)

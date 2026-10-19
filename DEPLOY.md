@@ -43,9 +43,9 @@
 2. Нажмите «Add new site» → «Import an existing project» → GitHub → репозиторий `jss`.
 3. Настройки сборки:
    - Branch: `main`
-   - Base directory: `podil-dragons`
+   - Base directory: (корень репозитория)
    - Build command: оставить пустым
-   - Publish directory: `podil-dragons`
+   - Publish directory: `.`
 4. Нажмите «Deploy». Сайт появится на адресе вида `что-то.netlify.app`.
 5. Откройте «Domain management» → «Add a domain» и впишите свой домен.
 6. В кабинете регистратора домена добавьте DNS-записи:

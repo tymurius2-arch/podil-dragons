@@ -35,7 +35,7 @@
 
 Купить можно у любого украинского регистратора: imena.ua, nic.ua, hostinger.com.ua. Зону `.com.ua` сейчас может зарегистрировать кто угодно. Для `.ua` нужна торговая марка.
 
-Название домена впишите в `config.js`, а также замените `podil-dragons.example` в `index.html` (4 места), `robots.txt` и `sitemap.xml`.
+Название домена впишите в `config.js`, а также замените `tymurius2-arch.github.io/podil-dragons` в `index.html` (4 места), `robots.txt` и `sitemap.xml`.
 
 ## 3. Хостинг: Netlify (бесплатно, сам обновляется при каждом изменении в GitHub)
 
